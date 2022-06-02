@@ -21,6 +21,9 @@ Hit the button below
 </a>
 <br>
 <br>
+Hit the blue import from github button
+<br>
+<br>
 After it loads, hit the run button
 <br>
 <br>
